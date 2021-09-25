@@ -8,3 +8,4 @@ html
 css
 valina js
 bootstrap
+jquery
