@@ -1,5 +1,5 @@
 # real_time_chat_app
-real time chat application using node.js as backend
+real time chat application using node.js and socket.io as backend
 
 Tech Stack
 --------------------------------
