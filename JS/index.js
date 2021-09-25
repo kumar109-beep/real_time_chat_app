@@ -1,1 +1,0 @@
-console.log('My new node js project');
